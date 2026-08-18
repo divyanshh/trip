@@ -9,7 +9,7 @@
 - [ ] **Notre-Dame** (Aug 29, FREE) — reserve **~Aug 27** when slots open (notredamedeparis.fr) — or walk in
 
 ## 🟢 ALREADY BOOKED — no action, just keep QR/voucher on phone (offline)
-- ✅ Flights (all 5) + **Eurostar 9309** (Sep 1 07:14, coach 15 seat 35)
+- ✅ Flights (all 5) + **Eurostar 9309** (Sep 1 07:14, seat in your booking email)
 - ✅ Hostels: Prague Dream · St Christopher's Paris Gare du Nord · Amsterdam
 - ✅ **Orsay** (Aug 29 14:00) · **Versailles** (Aug 30) · **Louvre** (Aug 30) · **Van Gogh** (Sep 2 09:00)
 - ✅ **Sagrada Família inside** (Aug 21) · Ibiza SHM (23) + Guetta (24) · Montserrat/Girona/Costa Brava (22) · Flamenco · Giethoorn+Zaanse (Sep 3) · Delft+Rotterdam+Hague (Sep 4)

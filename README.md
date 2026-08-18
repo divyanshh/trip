@@ -40,7 +40,7 @@ Each doc has: when to wake/leave · hour-by-hour timeline · transport + costs �
 ## 🎫 Booking status (no personal codes stored here)
 **✅ Booked:** all 5 flights · Eurostar (Sep 1) · all hostels · Sagrada Família inside (Aug 21) · Ibiza SHM + Guetta · Montserrat/Girona/Costa Brava · Flamenco · Musée d'Orsay · Versailles · Louvre · Van Gogh · Giethoorn+Zaanse · Delft/Rotterdam/Hague tour.
 
-**🟢 Still to book:** Anne Frank House (Sep 2 — refresh annefrank.org for cancellations) · Eiffel summit (Aug 31) · Rijksmuseum (Sep 2) · Seine cruise (Aug 29) · Notre-Dame (free, ~Aug 27).
+**🟢 Still to book:** Anne Frank House (Sep 2 — refresh annefrank.org for cancellations) · Eiffel summit (Aug 31) · Rijksmuseum (Sep 2) · Amsterdam canal cruise (Sep 2) · Seine cruise (Aug 29) · Notre-Dame (free, ~Aug 27).
 
 See [`Reference/CONFIRM-BEFORE-AUG29.md`](./Reference/CONFIRM-BEFORE-AUG29.md) for the pre-Paris checklist.
 

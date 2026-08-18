@@ -1,7 +1,7 @@
 # Day 15 · Sep 1 (Tue) · 🇫🇷→🇳🇱 PARIS → AMSTERDAM (Eurostar)
 
 - Checkout ~6:15 → **Uber (~€12–15)** or Metro (line 4/5) to **Gare du Nord** (~15 min, central) → arrive station ~40 min early.
-- **✅ EUROSTAR 9309 · 07:14 → 10:50 · Paris Gare du Nord → Amsterdam Centraal · coach 15, seat 35 · Standard** (3h36 direct).
+- **✅ EUROSTAR 9309 · 07:14 → 10:50 · Paris Gare du Nord → Amsterdam Centraal · seat in your booking email · Standard** (3h36 direct).
 - In Amsterdam by ~11 → check in hostel, drop bags → veg lunch **Foodhallen**.
 
 ## Amsterdam city afternoon

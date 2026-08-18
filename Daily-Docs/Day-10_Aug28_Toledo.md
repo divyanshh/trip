@@ -29,7 +29,7 @@ Toledo is a UNESCO World Heritage hilltop city, the former capital of Spain, fam
 
 ## 🍬 VEGETARIAN FOOD — Toledo
 - **🔴 Marzipan / Mazapán de Toledo** — the city's signature sweet, made only of **ground almonds + sugar, 100% vegetarian**. Buy from a historic obrador like **Santo Tomé** — the perfect edible souvenir and totally safe for you.
-- Lunch is usually free time in town. Veg-safe Spanish plates: **tortilla española** (potato-egg omelette), **pan con tomate**, **patatas bravas** (confirm the sauce), **pisto manchego** (La Mancha's ratatouille — the classic local veg dish), **ensalada**, and **Manchego cheese** boards. Use the phrase above and confirm no _jamón_ (ham) or _atún_ (tuna).
+- Lunch is usually free time in town. Veg-safe Spanish plates: **tortilla española** (potato omelette — ⚠️ contains egg, skip if egg-free), **pan con tomate**, **patatas bravas** (confirm the sauce), **pisto manchego** (La Mancha's ratatouille — the classic local veg dish), **ensalada**, and **Manchego cheese** boards. Use the phrase above and confirm no _jamón_ (ham) or _atún_ (tuna).
 - **HappyCow** app for a dedicated veg-friendly spot in town.
 
 ## 🌆 EVENING IN MADRID (last group night)

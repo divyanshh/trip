@@ -1,8 +1,8 @@
 # 🌍 DIVYANSH — EUROPE TRIP · FULL DETAILED DUMP
-Solo · Pure vegetarian · Aug 18 – Sep 6, 2026 · Budget ~₹4.84L
+Solo · Pure vegetarian · Aug 18 – Sep 6, 2026
 
 ## ✅ ALL BOOKED
-- **Flights:** Mumbai→Prague (Aug 18, 9:40pm, via Doha) · Prague→Barcelona (Aug 20, 11am) · Madrid→Paris (Aug 29, lands ~10am, Orly) · **Paris→Amsterdam Eurostar 9309 (Sep 1, 07:14→10:50, coach 15 seat 35)** · **Amsterdam→Mumbai IndiGo 6E 22 (Sep 5, 20:35→09:20+1)**
+- **Flights:** Mumbai→Prague (Aug 18, 9:40pm, via Doha) · Prague→Barcelona (Aug 20, 11am) · Madrid→Paris (Aug 29, lands ~10am, Orly) · **Paris→Amsterdam Eurostar 9309 (Sep 1, 07:14→10:50, seat in your booking email)** · **Amsterdam→Mumbai IndiGo 6E 22 (Sep 5, 20:35→09:20+1)**
 - **Hostels:** Prague Dream (Aug 19) · St Christopher's Paris Gare du Nord (Aug 29–Sep 1, ref [hostel ref — in your booking email]) · Amsterdam hostel (Sep 1–5)
 - **Tickets/tours:** Ibiza SHM (23rd) + Guetta (24th) · Montserrat+Girona+Costa Brava (Aug 22) · Flamenco · Musée d'Orsay (Aug 29, 14:00) · Versailles (Aug 30) · Louvre (Aug 30) · Van Gogh (Sep 2, 09:00, ticket [ticket ID — in your booking email]) · Giethoorn+Zaanse combo (Sep 3, 8am 10h) · Delft+Rotterdam+The Hague (Sep 4)
 
@@ -129,4 +129,4 @@ Checkout, bags to storage → chill: last canals, Albert Cuyp Market, A'DAM Look
 ---
 
 # 📱 APPS: Bolt · Citymapper · Google Maps (offline) · HappyCow (veg) · GetYourGuide · Hostelworld · Airalo (eSIM) · Wise/Revolut · Google Translate · Eurostar · IndiGo · Qatar Airways · NS (Dutch trains). Meet people: Hostelworld Social, GAFFL, Meetup.
-# 💰 Budget ~₹4.84L. Carry ~€400 cash buffer.
+# 💰 Carry a euro cash buffer for tips/incidentals.

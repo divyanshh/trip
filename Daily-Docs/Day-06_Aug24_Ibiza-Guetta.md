@@ -87,8 +87,8 @@ Ibiza is very veg/vegan aware. The rule today: **eat solid meals BEFORE each dri
 - **Los Pasajeros (Ibiza Town)** — cheap veg pasta, salads, patatas.
 
 **Meal-by-meal:**
-- **Breakfast (~10:30):** Hotel buffet — eggs (if you take them), toast, fruit, yogurt, pastries, juice. Eat big.
-- **Pre-boat lunch (most important):** something substantial — **pizza margherita, pasta napolitana/arrabbiata, veggie bocadillo (cheese + tomato baguette), patatas bravas, Spanish tortilla (potato omelette), salad, hummus.** Say **"sin carne, sin pescado."**
+- **Breakfast (~10:30):** Hotel buffet — toast, fruit, yogurt, pastries, juice. Eat big.
+- **Pre-boat lunch (most important):** something substantial — **pizza margherita, pasta napolitana/arrabbiata, veggie bocadillo (cheese + tomato baguette), patatas bravas, Spanish tortilla (⚠️ contains egg — skip if egg-free), salad, hummus.** Say **"sin carne, sin pescado."**
 - **On the boat:** usually just drinks + light nibbles — **don't count on veg food there.** Carry a couple of snack bars.
 - **Post-boat / pre-Ushuaïa snack (~18:00):** refuel — pizza slice, **falafel wrap**, fries, fruit. Get carbs in before drinking again.
 - **Inside Ushuaïa:** drinks-focused; eat properly beforehand.

@@ -7,7 +7,7 @@ WanderOn ends. **Early flight Madrid → Paris (Orly)** ✅ BOOKED. Taxi from NH
 ## From ~1 PM (priority-ranked)
 | Time | Pri | Activity |
 |---|---|---|
-| 13:15 | 🟡 | **Musée d'Orsay** (Impressionists, ~2h). ⚠️ ONLY today — closed Mon | €16 |
+| 14:00 | ✅ | **Musée d'Orsay** ✅ booked 14:00 (Impressionists, ~2h). ⚠️ ONLY today — closed Mon | €16 |
 | 15:30 | 🔴 | **Notre-Dame** (free, reopened) + 🍨 Gagan's café nearby |
 | 15:45 | 🟡 | Sainte-Chapelle (€13) — or move to Aug 31 |
 | 17:00 | ⚪ | Latin Quarter (Shakespeare & Co) — cut first if behind |

@@ -8,7 +8,7 @@ _The world's biggest tomato fight — and the reason this whole trip was built a
 
 ## ⏰ WAKE / LEAVE
 - **Wake ~07:00** — non-negotiable. Buñol is a small town swallowed by 20,000 people; roads and bus staging fill fast. Be at the lobby **ready and dressed for the fight** before WanderOn's departure.
-- **Eat a real hotel breakfast ~07:00–07:30** — this is your main fuel. There is **no reliable veg food in the Buñol mob.** Load up: bread, fruit, eggs/cheese, coffee, water.
+- **Eat a real hotel breakfast ~07:00–07:30** — this is your main fuel. There is **no reliable veg food in the Buñol mob.** Load up: bread, fruit, cheese, coffee, water.
 - **Bus Valencia → Buñol ≈ 40 min** (~38 km west).
 
 ---
