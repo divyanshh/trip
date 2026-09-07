@@ -2,6 +2,8 @@
 
 Solo traveler · **Pure vegetarian** · 18 days on the ground (Aug 19 – Sep 5)
 
+> ✅ **Trip completed Sep 5, 2026.** Day-17 (Rotterdam/Delft/The Hague) was done **self-guided by train** after the booked tour was cancelled — see the verified plan in its doc.
+
 > **How to use this repo with Claude:** point Claude at this repository and ask things like *"what's my plan for today?"*, *"where do I eat lunch on Day 11?"*, *"what movies were shot where I am?"*, or *"when do I need to leave for the airport?"* Everything is in plain markdown so Claude can read it all. Personal data (PNRs, booking refs, phone numbers, ticket IDs) has been intentionally left out — those live in your email/phone.
 
 ---
