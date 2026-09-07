@@ -14,6 +14,8 @@ Solo traveler · **Pure vegetarian** · 18 days on the ground (Aug 19 – Sep 5)
 ---
 
 ## 📅 Day-by-day (full detail in [`Daily-Docs/`](./Daily-Docs))
+> 📄 Illustrated **PDF versions of all 18 days** (hero photo + gallery per day) are in [`Daily-PDFs/`](./Daily-PDFs), plus `00_ALL-DAYS-Europe-2026.pdf` (the whole trip in one book).
+
 Each doc has: when to wake/leave · hour-by-hour timeline · transport + costs · **vegetarian** restaurants & dishes · ticket status · tips · and a **🎬 Movies, Songs & Pop Culture (Bollywood + Hollywood)** section for that place.
 
 | Day | Date | Where |
